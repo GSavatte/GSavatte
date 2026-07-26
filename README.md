@@ -25,7 +25,7 @@
 ## You can find me on
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-savatte/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="45" height="45" /></a> &nbsp;
-  <a href="TON_LIEN_DISCORD" target="_blank"><img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" width="45" height="45" /></a> &nbsp;
+  <a href="https://discord.com/users/376073100858753024" target="_blank"><img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" width="45" height="45" /></a> &nbsp;
   <a href="mailto:contact@sgabriel.fr" target="_blank"><img src="https://cdn.simpleicons.org/gmail/D14836" alt="Email" width="45" height="45" /></a> &nbsp;
   <a href="https://sgabriel.fr" target="_blank"><img src="https://api.iconify.design/mdi/web.svg?color=%230077b5" alt="Website" width="45" height="45" /></a>
 </p>
