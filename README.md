@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.last.fm/user/GabrielS35" target="_blank">
-    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b9e2020f-6731-4b02-b401-01abf5ad8c61/dgbtvly-8c1ed9d6-af23-4a61-ac57-75752733fdca.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9iOWUyMDIwZi02NzMxLTRiMDItYjQwMS0wMWFiZjVhZDhjNjEvZGdidHZseS04YzFlZDlkNi1hZjIzLTRhNjEtYWM1Ny03NTc1MjczM2ZkY2EuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.H5a35iT2CusVMQIi2JJL2Bgw6rdFTcstulNvbrcHrXc" alt="Turning CD" width="70" />
+    <img src="./assets/cd.gif" alt="Turning CD" width="70" />
     <img src="https://lastfm-recently-played.vercel.app/api?user=GabrielS35&count=1&header_style=none&width=500" alt="Musique en cours" />
   </a>
 </p>
