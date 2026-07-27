@@ -8,8 +8,8 @@
 
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/GSavatte/GSavatte/main/assets/cd.gif" alt="Turning CD" width="70" />
   <a href="https://www.last.fm/user/GabrielS35" target="_blank">
-    <img src="./assets/cd.gif" alt="Turning CD" width="70" />
     <img src="https://lastfm-recently-played.vercel.app/api?user=GabrielS35&count=1&header_style=none&width=500" alt="Musique en cours" />
   </a>
 </p>
